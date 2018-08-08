@@ -1,0 +1,25 @@
+#head{
+    background: url("http://www.wipremiertrivia.com/wp-content/uploads/2018/04/90s-Wallpaper.jpg");
+    font-size:75px;
+    padding:25px;
+    margin-top:0px;
+    margin-right: 0px;
+    margin-left: 0px;
+    background-position-y: 11.5%;
+}
+body{
+    font-family: 'Lobster', cursive;
+    margin-top:0px;
+    margin-right: 0px;
+    margin-left: 0px;
+    background-color: aqua;
+}
+.content{
+    border: 5px solid black;
+    margin:10px;
+    padding:100px;
+}
+#users{
+    border: 5px solid black;
+    text-align: center;
+}

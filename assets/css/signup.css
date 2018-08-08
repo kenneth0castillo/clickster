@@ -1,0 +1,61 @@
+p{
+    margin: 0;
+ }
+ 
+ body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 100vh;
+    justify-content: center;
+    background-image:url("http://images5.alphacoders.com/307/307180.jpg");
+    background-size: cover;
+ }
+ 
+ h1,
+ label,
+ #submitButton {
+    font-family: 'Lobster', cursive;
+ }
+ h1 {
+    font-size: 45px;
+    text-align: center;
+ }
+ 
+ .userContainer {
+    background-color: rgb(115, 105, 255);
+ }
+ 
+ label {
+    font-size: 30px;
+ }
+ 
+ input {
+    font-size: 50px;
+ 
+ }
+ .userContainer {
+    padding: var(--addedPadding);
+ }
+ form,
+ .inputContainer,
+ .singleInput {
+    display: flex;
+    flex-direction: column;
+ 
+ }
+ 
+ #signup {
+    background-color:#f442e5;
+    font-size: 100px;
+ 
+ }
+ 
+ #signup:hover {
+    background-color: #f44141;
+ }
+ 
+ #registered{
+    background-color: red;
+    font-size: 35px;
+ }
